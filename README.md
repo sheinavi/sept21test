@@ -6,4 +6,6 @@
     <li> Run php artisan migrate </li>
     <li> Run php artisan db:seed </li>
     <li> Access admin by accessing /admin. Index page should show purchase form. </li>
+    <li> Demo: http://test.sheinavi.com/ </li>
+    <li> Demo Admin: http://test.sheinavi.com/admin </li>
 </ol>
